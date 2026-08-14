@@ -4,7 +4,7 @@
 
 ### *Crafting Modern Digital Experiences with HTML & CSS*
 
-<img src="./assets/image1.png" alt="Vexora Studio Preview" width="900"/>
+<img src="assets/skinshortimages/image1.png" alt="Vexora Studio Preview" width="900"/>
 
 <br>
 

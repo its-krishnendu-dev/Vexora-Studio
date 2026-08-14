@@ -40,15 +40,15 @@ The project demonstrates how professional websites can be created using only **H
 ## 🖥️ Preview
 
 <p align="center">
-  <img src="assets/skinshortimages/image1.png" width="850">
-  <img src="assets/skinshortimages/image2.png" width="850">
-  <img src="assets/skinshortimages/image3.png" width="850">
-  <img src="assets/skinshortimages/image4.png" width="850">
-  <img src="assets/skinshortimages/responsive1.png" width="850">
-  <img src="assets/skinshortimages/responsive2.png" width="850">
-  <img src="assets/skinshortimages/responsive3.png" width="850">
-  <img src="assets/skinshortimages/responsive4.png" width="850">
-  <img src="assets/skinshortimages/responsive5.png" width="850">
+  <img src="assets/skinshortimages/image1.png" width="650">
+  <img src="assets/skinshortimages/image2.png" width="650">
+  <img src="assets/skinshortimages/image3.png" width="650">
+  <img src="assets/skinshortimages/image4.png" width="650">
+  <img src="assets/skinshortimages/responsive1.png" width="650">
+  <img src="assets/skinshortimages/responsive2.png" width="650">
+  <img src="assets/skinshortimages/responsive3.png" width="650">
+  <img src="assets/skinshortimages/responsive4.png" width="650">
+  <img src="assets/skinshortimages/responsive5.png" width="650">
 </p>
 
 ---

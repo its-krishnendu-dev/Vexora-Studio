@@ -9,9 +9,6 @@
 <br>
 
 **A clean, responsive digital agency website built with modern web design principles.**
-
-[🎥 Demo Video](YOUR_GITHUB_VIDEO_LINK)
-
 </div>
 
 ---
@@ -40,27 +37,18 @@ The project demonstrates how professional websites can be created using only **H
 ## 🖥️ Preview
 
 <p align="center">
-  <img src="assets/skinshortimages/image1.png" width="400">
-  <img src="assets/skinshortimages/image2.png" width="400">
-  <img src="assets/skinshortimages/image3.png" width="400">
-  <img src="assets/skinshortimages/image4.png" width="400">
-  <img src="assets/skinshortimages/responsive1.png" width="400">
-  <img src="assets/skinshortimages/responsive2.png" width="400">
-  <img src="assets/skinshortimages/responsive3.png" width="400">
-  <img src="assets/skinshortimages/responsive4.png" width="400">
-  <img src="assets/skinshortimages/responsive5.png" width="400">
+  <img src="assets/skinshortimages/image1.png" width="350">
+  <img src="assets/skinshortimages/image2.png" width="350">
+  <img src="assets/skinshortimages/image3.png" width="350">
+  <img src="assets/skinshortimages/image4.png" width="350">
+  <img src="assets/skinshortimages/responsive1.png" width="350">
+  <img src="assets/skinshortimages/responsive2.png" width="350">
+  <img src="assets/skinshortimages/responsive3.png" width="350">
+  <img src="assets/skinshortimages/responsive4.png" width="350">
+  <img src="assets/skinshortimages/responsive5.png" width="350">
 </p>
 
 ---
-
-## 🎥 Website Demo
-
-Upload your website recording to GitHub and replace the link below.
-
-> **Demo Video:** `YOUR_GITHUB_VIDEO_LINK`
-
----
-
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
